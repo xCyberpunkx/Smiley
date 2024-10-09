@@ -36,19 +36,16 @@ SmileTrack is a patient management system designed specifically for dental pract
    cd SmileTrack
 Install PHP Dependencies:
 
-bash
-Copier le code
+
 composer install
 Install Node.js Dependencies:
 
-bash
-Copier le code
+
 npm install
 Setup Environment Variables:
 
 Copy the .env.example file to .env:
-bash
-Copier le code
+
 cp .env.example .env
 Update the .env file with your PostgreSQL database configuration:
 env
@@ -61,23 +58,18 @@ DB_USERNAME=your_username
 DB_PASSWORD=your_password
 Generate Application Key:
 
-bash
-Copier le code
+
 php artisan key:generate
 Run Database Migrations:
 
-bash
-Copier le code
+
 php artisan migrate
 Seed the Database (optional): If you have seeders set up, you can run:
 
-bash
-Copier le code
+
 php artisan db:seed
 Run the Development Server:
 
-bash
-Copier le code
 php artisan serve
 Access the application at http://127.0.0.1:8000.
 
@@ -103,15 +95,12 @@ Contributions are welcome! If you want to help improve SmileTrack, please follow
 
 Fork the repository.
 Create a new branch:
-bash
-Copier le code
+
 git checkout -b feature/YourFeatureName
 Make your changes and commit them:
-bash
-Copier le code
+
 git commit -m "Add your commit message"
 Push to your branch:
-bash
-Copier le code
+
 git push origin feature/YourFeatureName
 Create a pull request.
