@@ -19,5 +19,6 @@
     <body class="font-sans antialiased">
         @inertia
         <h1>Hello</h1>
+        <h1>Fuck You Bouzina</h1>
     </body>
 </html>
