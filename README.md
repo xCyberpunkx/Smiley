@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # SmileTrack
 
 SmileTrack is a patient management system designed specifically for dental practices. It focuses on streamlining appointments, treatment plans, and billing to enhance the efficiency of dental practices and improve patient care.
@@ -108,4 +108,4 @@ Create a pull request.
 =======
 # Smiley
 SmileTrack is a patient management system designed for dental practices, focusing on streamlining appointments, treatment plans, and billing.
->>>>>>> b005b9489ad8ad6ca6670530a804286076649569
+
